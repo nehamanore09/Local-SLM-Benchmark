@@ -1,4 +1,4 @@
-#🛡️ My Local AI Speed Test Dashboard  
+#🛡️ My Local AI Speed Test Dashboard  #
 Hey! I built this to answer a simple question: "Can small AI models run on my regular laptop instead of expensive cloud services?"
 
 📊 What I Found (My Actual Laptop Numbers)
